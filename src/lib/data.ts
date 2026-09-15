@@ -14,7 +14,7 @@ export const site = {
     email: "mailto:pranavg9876@gmail.com",
     phone: "tel:+919058722449",
   },
-  resumeUrl: "/resume.pdf",
+  resumeUrl: "/Pranav___Resume.pdf",
   headshotUrl: "/pranav.jpeg",
 };
 

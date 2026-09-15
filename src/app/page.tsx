@@ -10,6 +10,7 @@ import { Services } from "@/components/sections/services";
 import { Contact } from "@/components/sections/contact";
 
 export default function Home() {
+  console.log("Welcome to my portfolio! Feel free to explore and reach out if you'd like to collaborate or learn more about my work.");
   return (
     <div className="flex min-h-full flex-1 flex-col">
       <Navbar />
